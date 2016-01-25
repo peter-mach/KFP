@@ -1,0 +1,21 @@
+{
+  "name": "KungFuryPunch",
+  "version": "1.0.0",
+  "description": "Punch those Natzi!",
+  "main": "main.js",
+  "author": null,
+  "exp": {
+    "name": "Kung Fury Punch",
+    "iconUrl": "http://i.imgur.com/ycpnGNt.png",
+    "orientation": "portrait"
+  },
+  "dependencies": {
+    "@exponent/with-custom-font": "^1.0.0",
+    "react-native": "exponentjs/react-native#2016-01-02"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.11.2"
+  }
+}
