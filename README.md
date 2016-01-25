@@ -1,3 +1,3 @@
 **Punch of KungFury** by Piotr Machowski
 
-![KungFuryPunch](https://github.com/pmachowski/KFP/blob/master/src/assets/ui/tutorial.png)
+![KungFuryPunch](https://raw.githubusercontent.com/pmachowski/KFP/master/assets/ui/tutorial.png)
